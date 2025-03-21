@@ -49,4 +49,4 @@ up to GitHub, then submit your work to Canvas using CodeGrade.
 
 ## Resources
 
-* [MDN: Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+* [MDN: Array.prototype.filter()](https://.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
